@@ -106,3 +106,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+
+Hi,
+I've read everything and it looks pretty clear for now. This is just me testing everything out.
